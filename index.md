@@ -1,4 +1,6 @@
 ---
+name : heo yeonbeom
+department : ai
 title: "MyTitle."
 layout: splash
 header:
